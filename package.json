@@ -1,0 +1,1 @@
+{"dependencies":{"playwright":"1.57.0"},"description":"Screen-recording factory for Bets Gone Wild (Playwright + GitHub Actions)","name":"betsgonewild-recorder","private":true,"scripts":{"record":"node record.mjs"},"type":"module"}
